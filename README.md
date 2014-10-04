@@ -1,4 +1,4 @@
 earlyNodejs
 ===========
 
-The early stage nodejs development and practices.
+The beginning of nodejs application development (first practice).
