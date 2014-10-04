@@ -1,0 +1,16 @@
+{
+  "name": "staticNodeJS",
+  "version": "0.0.0",
+  "description": "The first nodejs, nodemon, express and ejs app used as first step to learn nodejs",
+  "main": "app.js",
+  "private": "true",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "4.x",
+    "ejs":"latest"
+  },
+  "author": "kunal",
+  "license": "BSD-2-Clause"
+}
